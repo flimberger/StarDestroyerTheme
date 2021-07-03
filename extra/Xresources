@@ -1,0 +1,10 @@
+XTerm.vt100.background:	black
+XTerm.vt100.cursorColor: red
+XTerm.vt100.foreground:	rgb:aa/bb/ff
+XTerm.vt100.highlightColor: rgb:44/66/ff
+XTerm.vt100.highlightColorMode: true
+XTerm.vt100.highlightReverse: false
+XTerm.vt100.highlightTextColor: white
+XTerm.vt100.scrollbar.background: black
+XTerm.vt100.scrollbar.foreground: rgb:44/66/ff
+XTerm.vt100.scrollbar.thumb: black
