@@ -84,5 +84,29 @@
 			"scope": "markup.info.lsp",
 			"foreground": "var(lightblue)",
 		},
+		{
+			"scope": "markup.heading",
+			"foreground": "var(white)",
+		},
+		{
+			"scope": "markup.bold",
+			"foreground": "var(lightblue)",
+		},
+		{
+			"scope": "markup.italic",
+			"foreground": "var(lightblue)",
+		},
+		{
+			"scope": "markup.underline",
+			"foreground": "var(lightblue)",
+		},
+		{
+			"scope": "markup.raw",
+			"foreground": "var(lightblue)",
+		},
+		{
+			"scope": "entity.name.tag",
+			"foreground": "var(white)",
+		},
 	]
 }
